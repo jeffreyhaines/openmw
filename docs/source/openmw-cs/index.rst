@@ -10,7 +10,7 @@ few chapters to familiarise yourself with the new interface.
 
 .. warning::
    OpenMW CS is still software in development. The manual does not cover any of
-   its shortcomings, it is written as if everything was working as inteded.
+   its shortcomings; it is written as if everything was working as inteded.
    Please report any software problems as bugs in the software, not errors in
    the manual.
 
